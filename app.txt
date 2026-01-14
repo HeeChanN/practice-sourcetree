@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+app config
+new config
+=======
 app config
 new config
